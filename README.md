@@ -89,7 +89,7 @@ This project includes collaborative GitHub workflows, secure API development wit
 - **Authentication**: JSON Web Token-based authentication ensures users are securely logged in and sessions are managed appropriately.
 - **Authorization**: Role-based access control ensures users can only access permitted resources (e.g., only hosts can edit their listings).
 - **Rate Limiting**: Protects the API from brute-force attacks and abuse by limiting repeated requests from clients.
-- **Input Validation & Sanitization**: Ensures that all incoming data is clean and secure to prevent common vulnerabilities like SQL Injection.
+- **Input Validation**: Ensures that all incoming data is clean and secure to prevent common vulnerabilities like SQL Injection.
 
 ### Importance of Security
 
